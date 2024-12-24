@@ -4,7 +4,6 @@ import React from 'react'
 import Todo from './Components/Todo'
 
 
-import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 const App = () => {
   
